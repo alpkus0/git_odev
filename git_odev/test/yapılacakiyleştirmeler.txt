@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+yapılacak iyileştirmeler var.
+=======
+yapılacak iyileştirmeler var bunlar yapılacak.
+>>>>>>> oyuntester

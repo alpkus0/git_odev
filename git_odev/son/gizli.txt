@@ -1,0 +1,4 @@
+şifrelerim
+API_KEY
+
+YENİ ŞİFRE
